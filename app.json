@@ -1,6 +1,6 @@
 {
   "expo": {
-    "icon": "./assets/nblogo.png",
+    "icon": "./assets/app_logo.png",
     "slug": "kitchensinkvuenative",
     "orientation": "portrait",
     "primaryColor": "#cccccc",

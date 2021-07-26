@@ -28,6 +28,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "@babel/plugin-transform-react-jsx-source": "^7.14.5",
     "@expo/metro-config": "^0.1.57",
     "expo": "^40.0.0",
     "expo-app-loading": "^1.0.1",
@@ -35,6 +36,7 @@
     "native-base": "^2.15.2",
     "react": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-40.0.1.tar.gz",
+    "react-native-calendars": "^1.1264.0",
     "react-native-gesture-handler": "~1.8.0",
     "react-native-paper": "^2.16.0",
     "react-native-reanimated": "~1.13.0",
